@@ -1,0 +1,5 @@
+Question 1.	5 , 5.5
+Question 2.	7625597484987l
+Question 3.	334206837441656786944l
+Question 4.	0.00569620253164557 metres
+Question 5.	6.389253161649093 miles
